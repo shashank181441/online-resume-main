@@ -19,6 +19,13 @@
 	--text-color:var(--text-color-light);
     --link-text-color:var(--link-text-color-light);
     --bg-color:var(--bg-color-light);
+
+
+    /* --primary-color:var(--primary-color-dark);
+    --secondary-color:var(--secondary-color-dark);
+	--text-color:var(--text-color-dark);
+    --link-text-color:var(--link-text-color-dark);
+    --bg-color:var(--bg-color-dark); */
 }
 
 * {

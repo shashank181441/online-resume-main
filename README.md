@@ -5,9 +5,9 @@
 
 ## Screenshots
 
-![Dark-View](https://github.com/biplov-stha/online-resume/assets/137496709/9f3be7d3-a615-4fbd-b9c1-d736ed4a2fa5)
+![Dark-View](https://files.catbox.moe/hvlrur.png)
 
-![Light-View](https://github.com/biplov-stha/online-resume/assets/137496709/bd15c6b5-6362-4bdb-9ef8-c17d8f26db5e)
+![Light-View](https://files.catbox.moe/v1fkke.png)
 
 
 
@@ -50,6 +50,6 @@ This project is highly inspired from [Shaif Arfan](https://github.com/ShaifArfan
 
 ## Feedback
 
-If you have any feedback, please reach out to me at biplovestha290@gmail.com.
+If you have any feedback, please reach out to me at pshashank407@gmail.com.
 
 
